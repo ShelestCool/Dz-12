@@ -1,0 +1,54 @@
+p {
+    margin: 0;
+}
+.container {
+    padding-top: 70px;
+    width: 45%;
+}
+
+header {
+    background: rgba(20, 17, 17, 0.692);
+    width: 400px;
+    color: white;
+}
+section {
+    background: rgba(211, 211, 211, 0.924);
+    color: black;
+    width: 400px;
+
+}
+
+body{
+    background-image: url(../img/bg.jpg);
+}
+
+.place_time {
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size:16px;    
+}
+
+.temperature {
+    padding-top: 10px;
+    text-align: center;
+}
+
+.speed {
+    font-size:18px;
+    padding-top: 50px;
+    padding-bottom: 15px;
+
+}
+
+img {
+    width: 55px;
+}
+
+.img-big {
+    width: 100px;
+}
+.nextDay{
+    padding-left: 10px;
+    padding-right: 10px;
+    border-bottom: 1px gray solid;
+}
